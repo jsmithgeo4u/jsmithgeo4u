@@ -1,8 +1,6 @@
 👋 Hi, I’m Jesse Smith!
 
-👀 I’m interested in programmatic remote sensing & GIS applications.
-
-🥁 And I'm a drummer!
+👀 I’m interested in programmatic remote sensing & GIS applications via Python and R.
 
 📫 jessesmith.ca27@gmail.com
 
